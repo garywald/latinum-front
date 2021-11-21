@@ -1,17 +1,17 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="List of the students welcomed to the institut"/>
+    <img alt="Vue logo" src="./assets/latinum_logo.png">
+    <HelloWorld msg="List of the humans welcomed to the Latinum"/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Latinum from './components/Latinum.vue'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    Latinum
   }
 }
 </script>

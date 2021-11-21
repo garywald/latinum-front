@@ -1,5 +1,5 @@
-![Vue.js Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/vue.svg)
+![Latinum.js Logo](https://img1.freepng.fr/20180327/zeq/kisspng-symbol-science-atom-chemistry-clip-art-png-free-atom-download-images-5abb01499f7a40.8911023115222050016532.jpg)
 
-# We need you
+# Survive
 
-Please, fork this repository, add your github's username into the list of components/HelloWorld.vue and ask a PR !
+fork this repository, add your github's username into the list of src/components/Latinum.vue and ask a PR !
