@@ -1,7 +1,7 @@
 ![Latinum.js Logo](./src/assets/latinum_logo_small.png)
 
 # Survive
-To Survive, you must be on the departure List of the Latinum. Follow those prerequiste :
+To Survive, you must be on the departure List of the Latinum. Follow those prerequisites :
  * fork this repository
  * make a branch
  * add your github's username behind your number into the list of src/components/Latinum.vue
