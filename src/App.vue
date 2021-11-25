@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/latinum_logo.png">
-    <Latinum msg="List of the humans welcomed to the Latinum"/>
+    <Latinum msg="List of the next passengers for the Latinum"/>
   </div>
 </template>
 
