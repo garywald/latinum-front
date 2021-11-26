@@ -17,15 +17,15 @@ export default {
     return {
       items: [
         {number: '👑', message: 'Garywald'},
-        { number: '2', message: '' },
+        { number: '2', message: 'Nyaraa-2' },
         { number: '3', message: 'Usponso' },
-        { number: '4', message: '' },
+        { number: '4', message: 'Alexandre' },
         { number: '5', message: 'adrienbgcz' },
         { number: '6', message: 'MaximeWallart' },
-        { number: '7', message: '' },
+        { number: '7', message: 'Lucas-BAJEUX' },
         { number: '8', message: 'Isaac Leclercq' },
-        { number: '9', message: '' },
-        { number: '10', message: '' },
+        { number: '9', message: 'Killian-Zouareg' },
+        { number: '10', message: 'Tristan-Dussart-fr' },
       ],
     };
   },
