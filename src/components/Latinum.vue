@@ -18,7 +18,7 @@ export default {
       items: [
         {number: '👑', message: 'Garywald'},
         { number: '2', message: '' },
-        { number: '3', message: 'Enzo' },
+        { number: '3', message: 'Usponso' },
         { number: '4', message: '' },
         { number: '5', message: '' },
         { number: '6', message: '' },
