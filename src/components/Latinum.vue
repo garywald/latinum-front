@@ -17,7 +17,7 @@ export default {
     return {
       items: [
         {number: '👑', message: 'Garywald'},
-        { number: '2', message: '' },
+        { number: '2', message: 'Nyaraa-2' },
         { number: '3', message: '' },
         { number: '4', message: '' },
         { number: '5', message: '' },
