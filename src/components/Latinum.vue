@@ -24,7 +24,7 @@ export default {
         { number: '6', message: 'MaximeWallart' },
         { number: '7', message: 'Lucas-BAJEUX' },
         { number: '8', message: '' },
-        { number: '9', message: '' },
+        { number: '9', message: 'Killian-Zouareg' },
         { number: '10', message: 'Tristan-Dussart-fr' },
       ],
     };
