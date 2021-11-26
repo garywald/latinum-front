@@ -22,7 +22,7 @@ export default {
         { number: '4', message: '' },
         { number: '5', message: 'adrienbgcz' },
         { number: '6', message: 'MaximeWallart' },
-        { number: '7', message: '' },
+        { number: '7', message: 'Lucas-BAJEUX' },
         { number: '8', message: '' },
         { number: '9', message: '' },
         { number: '10', message: '' },
